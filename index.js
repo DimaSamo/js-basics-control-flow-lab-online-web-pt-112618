@@ -9,8 +9,9 @@ function scuberGreetingForFeet(distance){
   }
 }
 
-function ternaryCheckCity(){
+function ternaryCheckCity(city){
   // Write your code here!
+  city === "NYC"? "Ok, sounds good." : "No go."
 }
 
 function switchOnCharmFromTip(){
